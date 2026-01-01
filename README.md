@@ -1,25 +1,29 @@
-<h1>I'm Imran an IT professional!</h1>
+<h1>I'm Ian an IT professional!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Domain Environment (Azure, Windows 10, Windows Server 2019, Powershell)</b>
   - [repo1 title](https://github.com/ImranHuhn/Repo1)
+
 - <b>Cloud Honeypot (Azure)</b>
   - [repo2 title](https://github.com/ImranHuhn/Repo2) 
 
  
 <h2>📜 Degrees & Certifications:</h2>
 
+- A.S. in Business Administration
 - B.S. in Computer Science and Information Security
-- CompTIA Network+ (Pending...)
+<!--
+- CCNA (Pending...)
 - Red Hat Certified System Administrator RHCSA (Pending...)
 - AZ-104 (Pending...) 
+-->
 
-<h2>📺 My YouTube Videos:</h2>
+<h2>📺 My YouTube Channel:</h2>
 
 - [Youtube video title 1](https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw)
-- [Youtube video title 2](https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw)
 
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ImranHuhn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -32,7 +36,6 @@
 [instagram]: https://www.instagram.com/ImranHuhn/
 [linkedin]: https://linkedin.com/in/ImranHuhn
 
-<!--
 **ImranHuhn/ImranHuhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
