@@ -1,13 +1,9 @@
 <h1>I'm Ian. an IT professional!</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Domain Environment (Azure, Windows 10, Windows Server 2019, Powershell)</b>
-  - [repo1 title](https://github.com/ImranHuhn/Repo1)
-
-- <b>Cloud Honeypot (Azure)</b>
-  - [repo2 title](https://github.com/ImranHuhn/Repo2) 
-
+- <b>Cybersecurity</b>
+  - [Vulnerability Management](https://github.com/IanImranHuhn/Vulnerability-Management-Program)
  
 <h2>📜 Degrees & Certifications:</h2>
 
