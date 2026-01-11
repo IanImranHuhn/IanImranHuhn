@@ -1,4 +1,4 @@
-<h1>I'm Ian. an IT professional!</h1>
+<h1>I'm Ian. An IT professional!</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
