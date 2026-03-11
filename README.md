@@ -20,6 +20,7 @@
   - [DISA STIGs : Windows 11](https://github.com/IanImranHuhn/DISA-STIGs)
  
 <h2>📜 Degrees & Certifications:</h2>
+
 - B.S. in Computer Science and Information Security
 - A.S. in Business Administration
 
