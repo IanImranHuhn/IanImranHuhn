@@ -3,8 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>RHEL</b>
-  - [RHEL Backup](https://www.youtube.com/watch?v=AtqmWyJ-oiU)
-  - [RHEL Patching](https://www.youtube.com/watch?v=Rc5Ky8H0kx0)
+  - [RHEL Backup](https://github.com/IanImranHuhn/RHEL-Backup)
+  - [RHEL Patching](https://github.com/IanImranHuhn/RHEL-Patching)
 - <b>Cloud</b>
   - [Azure IAM Password Reset](https://github.com/IanImranHuhn/AzureIAMPW)
   - [Azure IAM Role](https://github.com/IanImranHuhn/AzureIAMrole)
