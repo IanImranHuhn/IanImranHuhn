@@ -2,13 +2,17 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>RHEL</b>
+  - [RHEL Backup](https://www.youtube.com/watch?v=AtqmWyJ-oiU)
+  - [RHEL Patching](https://www.youtube.com/watch?v=Rc5Ky8H0kx0)
 - <b>Cloud</b>
-  - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
-  - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
-  - [Azure Users](https://github.com/IanImranHuhn/AzureUsers)
-  - [Azure Resource Group IAM](https://github.com/IanImranHuhn/AzureRGIAM)
-  - [Azure IAM Role](https://github.com/IanImranHuhn/AzureIAMrole)
   - [Azure IAM Password Reset](https://github.com/IanImranHuhn/AzureIAMPW)
+  - [Azure IAM Role](https://github.com/IanImranHuhn/AzureIAMrole)
+  - [Azure Resource Group IAM](https://github.com/IanImranHuhn/AzureRGIAM)
+  - [Azure Users](https://github.com/IanImranHuhn/AzureUsers)
+  - [Azure Users](https://github.com/IanImranHuhn/AzureUsers)
+  - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
+  - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
 - <b>Cybersecurity</b>
   - [Threat Hunt : Point of Entry](https://github.com/IanImranHuhn/Threat-Hunting-Port-Of-Entry/)
   - [Threat Hunt : Tor](https://github.com/IanImranHuhn/Threat-Hunting-Tor)
