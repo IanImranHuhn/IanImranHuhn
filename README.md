@@ -2,11 +2,6 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Cybersecurity</b>
-  - [Threat Hunt : Point of Entry](https://github.com/IanImranHuhn/Threat-Hunting-Port-Of-Entry/)
-  - [Threat Hunt : Tor](https://github.com/IanImranHuhn/Threat-Hunting-Tor)
-  - [Vulnerability Management Program](https://github.com/IanImranHuhn/Vulnerability-Management-Program)
-  - [DISA STIGs : Windows 11](https://github.com/IanImranHuhn/DISA-STIGs)
 - <b>Cloud</b>
   - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
   - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
@@ -14,6 +9,11 @@
   - [Azure Resource Group IAM](https://github.com/IanImranHuhn/AzureRGIAM)
   - [Azure IAM Role](https://github.com/IanImranHuhn/AzureIAMrole)
   - [Azure IAM Password Reset](https://github.com/IanImranHuhn/AzureIAMPW)
+- <b>Cybersecurity</b>
+  - [Threat Hunt : Point of Entry](https://github.com/IanImranHuhn/Threat-Hunting-Port-Of-Entry/)
+  - [Threat Hunt : Tor](https://github.com/IanImranHuhn/Threat-Hunting-Tor)
+  - [Vulnerability Management Program](https://github.com/IanImranHuhn/Vulnerability-Management-Program)
+  - [DISA STIGs : Windows 11](https://github.com/IanImranHuhn/DISA-STIGs)
  
 <h2>📜 Degrees & Certifications:</h2>
 
