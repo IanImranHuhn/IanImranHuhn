@@ -20,9 +20,9 @@
   - [DISA STIGs : Windows 11](https://github.com/IanImranHuhn/DISA-STIGs)
  
 <h2>📜 Degrees & Certifications:</h2>
-
-- A.S. in Business Administration
 - B.S. in Computer Science and Information Security
+- A.S. in Business Administration
+
 <!--
 - CCNA (Pending...)
 - Red Hat Certified System Administrator RHCSA (Pending...)
