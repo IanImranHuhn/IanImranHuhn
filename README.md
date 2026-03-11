@@ -10,7 +10,6 @@
   - [Azure IAM Role](https://github.com/IanImranHuhn/AzureIAMrole)
   - [Azure Resource Group IAM](https://github.com/IanImranHuhn/AzureRGIAM)
   - [Azure Users](https://github.com/IanImranHuhn/AzureUsers)
-  - [Azure Users](https://github.com/IanImranHuhn/AzureUsers)
   - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
   - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
 - <b>Cybersecurity</b>
