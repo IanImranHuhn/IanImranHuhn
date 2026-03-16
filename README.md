@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>RHEL</b>
+- <b>RHEL related</b>
+  - [Terraform: AWS Environment with Windows Server 2019 & RHEL 9.7](https://github.com/IanImranHuhn/terraform-aws-rhel-winserv)
   - [RHEL Backup](https://github.com/IanImranHuhn/RHEL-Backup)
   - [RHEL Patching](https://github.com/IanImranHuhn/RHEL-Patching)
 - <b>Cloud</b>
