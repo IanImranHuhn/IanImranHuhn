@@ -1,6 +1,6 @@
 <h1>I'm Ian. An IT professional!</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Documentation:</h2>
 
 - <b>RHEL related</b>
   - [Terraform: AWS Environment with Windows Server 2019 & RHEL 9.7](https://github.com/IanImranHuhn/terraform-aws-rhel-winserv)
