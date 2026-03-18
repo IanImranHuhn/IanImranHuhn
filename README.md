@@ -7,14 +7,14 @@
   - [Terraform: AWS Environment with Windows Server 2019 & RHEL 9.7](https://github.com/IanImranHuhn/terraform-aws-rhel-winserv)
   - [RHEL Backup](https://github.com/IanImranHuhn/RHEL-Backup)
   - [RHEL Patching](https://github.com/IanImranHuhn/RHEL-Patching)
-- <b>Azure</b>
+- <b>Azure related</b>
   - [Azure IAM Password Reset](https://github.com/IanImranHuhn/AzureIAMPW)
   - [Azure IAM Role](https://github.com/IanImranHuhn/AzureIAMrole)
   - [Azure Resource Group IAM](https://github.com/IanImranHuhn/AzureRGIAM)
   - [Azure Users](https://github.com/IanImranHuhn/AzureUsers)
   - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
   - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
-- <b>Cybersecurity</b>
+- <b>Cybersecurity related</b>
   - [Threat Hunt : Point of Entry](https://github.com/IanImranHuhn/Threat-Hunting-Port-Of-Entry/)
   - [Threat Hunt : Tor](https://github.com/IanImranHuhn/Threat-Hunting-Tor)
   - [Vulnerability Management Program](https://github.com/IanImranHuhn/Vulnerability-Management-Program)
