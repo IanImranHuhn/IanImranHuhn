@@ -4,7 +4,7 @@
 
 - <b>RHEL related</b>
   - [Join and authenticate RHEL through Active Directory](https://github.com/IanImranHuhn/Join-and-authenticate-RHEL-through-Active-Directory)
-  - [Terraform: AWS Environment with Windows Server 2019 & RHEL 9.7](https://github.com/IanImranHuhn/terraform-aws-rhel-winserv)
+  - [Terraform: AWS Environment with Windows Server & RHEL](https://github.com/IanImranHuhn/terraform-aws-rhel-winserv)
   - [RHEL Backup](https://github.com/IanImranHuhn/RHEL-Backup)
   - [RHEL Patching](https://github.com/IanImranHuhn/RHEL-Patching)
 - <b>Azure related</b>
