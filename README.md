@@ -22,8 +22,8 @@
  
 <h2>📜 Degrees & Certifications:</h2>
 
-- AWS Cloud Practitioner (Expected 04/2026)
-- M.S. Information Technology (Start date 09/2026)
+<!-- - AWS Cloud Practitioner (Expected 04/2026)
+- M.S. Information Technology (Start date 09/2026) -->
 - B.S. in Computer Science and Information Security
 - A.S. in Business Administration
 
