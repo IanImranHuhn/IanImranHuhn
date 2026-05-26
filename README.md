@@ -15,10 +15,12 @@
   - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
   - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
 - <b>Cybersecurity related</b>
-  - [Threat Hunt : Point of Entry](https://github.com/IanImranHuhn/Threat-Hunting-Port-Of-Entry/)
   - [Threat Hunt : Tor](https://github.com/IanImranHuhn/Threat-Hunting-Tor)
   - [DISA STIGs : Windows 11](https://github.com/IanImranHuhn/DISA-STIGs)
-<!--  - [Vulnerability Management Program](https://github.com/IanImranHuhn/Vulnerability-Management-Program) -->
+<!--  
+  - [Vulnerability Management Program](https://github.com/IanImranHuhn/Vulnerability-Management-Program) 
+  - [Threat Hunt : Point of Entry](https://github.com/IanImranHuhn/Threat-Hunting-Port-Of-Entry/)
+-->
  
 <h2>📜 Degrees & Certifications:</h2>
 
